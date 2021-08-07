@@ -1,6 +1,4 @@
-### Hi there. i'm moonlin 👋
+### Hi there. i'm Shalom .👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=moonlincoder&show_icons=true&theme=dracula)](https://github.com/moonlincoder)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlincoder&hide=c,objective-c&theme=dracula)](https://github.com/moonlincoder)
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=moonlincoder&theme=github) стыдно блин, статистика то пустая (( -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShalomGH&show_icons=true&theme=dracula)](https://github.com/ShalomGH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShalomGH&theme=dracula)](https://github.com/ShalomGH)
